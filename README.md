@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/71136605?v=4" width='200px' height='200px' style="border-radius: 500px;" alt='profile_picture'/>
+<img src="https://avatars.githubusercontent.com/u/71136605?v=4" width='200px' height='200px' style="border-radius: 500;" alt='profile_picture'/>
 <h1 align="center">Hi 👋, I'm Farhan Khan</h1>
 <h3 align="center">Passionate JavaScript developer skilled in React & React Native. Crafting efficient frontend experiences. Building interactive web and mobile applications.</h3>
 
