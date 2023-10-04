@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Khan</h1>
-<h3 align="center">Passionate JavaScript developer skilled in React & React Native. Crafting efficient frontend experiences. Building interactive web and mobile applications.</h3>
+<h3 align="center" style="color:"#fff"; " >Passionate JavaScript developer skilled in React & React Native. Crafting efficient frontend experiences. Building interactive web and mobile applications.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanalws4u" alt="farhanalws4u" /></a> </p>
 
