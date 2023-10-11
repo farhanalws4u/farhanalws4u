@@ -30,6 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhanalws4u&show_icons=true&locale=en&layout=compact" alt="farhanalws4u" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhanalws4u&show_icons=true&locale=en" alt="farhanalws4u" /></p>
+<a href='https://github.com/SarthakKeshari/calc_for_everything/issues/197#issue-1931440693' ></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanalws4u&" alt="farhanalws4u" /></p>
 
