@@ -34,3 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhanalws4u&" alt="farhanalws4u" /></p>
 
+[![An image of @farhanalws4u's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhanalws4u)](https://holopin.io/@farhanalws4u)
+
